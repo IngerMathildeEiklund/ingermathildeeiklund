@@ -1,9 +1,18 @@
 ## Hello Friend! 🐳
 
+##### Who am I? 
 
 I am a student at Noroff University learning front-end development! 
 
+<hr> 
+
+##### Ask me about
+
 Ask my about my school projects, I worked really hard on them ☺️
+
+<hr> 
+
+##### Currently learning
 
 I've just learned JavasScript, and very much still learning 🌱
 
