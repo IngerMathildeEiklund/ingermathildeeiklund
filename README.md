@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello Friend! 🐳
 
-<!--
-**IngerMathildeEiklund/ingermathildeeiklund** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a student at Noroff University learning front-end development! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ask my about my school projects, I worked really hard on them ☺️
+
+I've just learned JavasScript, and still very much learning 🌱
+
+I just finished my exam, so my next project includes diving into the world of React ✨
+
+You can reach me on:
+
+👾 Discord: ingermathilde_09819 
+📨 Mail: ingeik06345@stud.noroff.no
+👩‍💻 Teams: ingeik06345@stud.noroff.no
+
+Fun fact: In my first project I accidentally used an SVG of a wheelbarrow instead of a shoppingcart for my cart button. I may never live this down. 🛒 
