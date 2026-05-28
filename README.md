@@ -5,7 +5,7 @@ I am a student at Noroff University learning front-end development!
 
 Ask my about my school projects, I worked really hard on them ☺️
 
-I've just learned JavasScript, and still very much learning 🌱
+I've just learned JavasScript, and very much still learning 🌱
 
 I just finished my exam, so my next project includes diving into the world of React ✨
 
