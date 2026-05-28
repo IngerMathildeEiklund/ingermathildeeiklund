@@ -28,4 +28,9 @@ You can reach me on:
 
 <hr> 
 
-Fun fact: In my first project I accidentally used an SVG of a wheelbarrow instead of a shoppingcart for my cart button. I may never live this down. 🛒 
+Fun fact: In my first project I accidentally used an SVG of a wheelbarrow instead of a shoppingcart for my cart button. In my defense:
+
+<img width="321" height="169" alt="image" src="https://github.com/user-attachments/assets/edae348a-fd42-4118-952c-1164f65e139b" />
+
+
+
